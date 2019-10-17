@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab|Montserrat:700&display=swap');
+.body{
+
+
+}
+.caption{
+  display:flex;
+  flex-direction:column;
+  background-image: url(penguin.jpg);
+  width:700px;
+  height:1000px;
+
+
+}
+.mainText{
+  margin-left:7.5vmin;
+  margin-top:8.5vmin;
+  width:330px;
+  height:100px;
+  font-family: Hepta Slab, sans-serif;
+  font-size: 46px;
+  color:white;
+  font-weight:bold;
+  line-height:110%;
+}
+
+.smallcaption{
+  font-size:11px;
+  margin-left: 7.8vmin;
+  margin-top:7.0vmin;
+  color:white;
+  font-weight:lighter;
+  font-family: Hepta Slab, sans-serif;
+  width:300px;
+}
+
+
+.photos{
+  display:flex;
+}
+
+.image{
+  margin-top:2vmin;
+  margin-left:1vmin;
+  width:80px;
+  height:40px;
+}
+
+.image2{
+  margin-left:7vmin;
+  margin-top: 1vmin;
+  width:50px;
+  height:50px;
+
+}
